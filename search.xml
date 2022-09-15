@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Studynotes220717</title>
+      <link href="/2022/07/17/Studynotes220717/"/>
+      <url>/2022/07/17/Studynotes220717/</url>
+      
+        <content type="html"><![CDATA[<h4 id="npm常用命令"><a href="#npm常用命令" class="headerlink" title="npm常用命令"></a>npm常用命令</h4><p>npm -v：查看npm版本。<br>npm init：初始化后会出现一个package.json配置文件。可以在后面加上-y ，快速跳过问答式界面。<br>npm install：会根据项目中的package.json文件自动下载项目所需的全部依赖。<br>npm install 包名 –save-dev(npm install 包名 -D)：安装的包只用于开发环境，不用于生产环境，会出现在package.json文件中的devDependencies属性中。<br>npm install 包名 –save(npm install 包名 -S)：安装的包需要发布到生产环境的，会出现在package.json文件中的dependencies属性中。<br>npm list：查看当前目录下已安装的node包。<br>npm list -g：查看全局已经安装过的node包。<br>npm –help：查看npm帮助命令。<br>npm update 包名：更新指定包。<br>npm uninstall 包名：卸载指定包。<br>npm config list：查看配置信息。<br>npm 指定命令 –help：查看指定命令的帮助。<br>npm info 指定包名：查看远程npm上指定包的所有版本信息。<br>npm config set registry <a href="https://registry.npm.taobao.org：">https://registry.npm.taobao.org：</a> 修改包下载源，此例修改为了淘宝镜像。<br>npm root：查看当前包的安装路径。<br>npm root -g：查看全局的包的安装路径。<br>npm ls 包名：查看本地安装的指定包及版本信息，没有显示empty。<br>npm ls 包名 -g：查看全局安装的指定包及版本信息，没有显示empty。</p><h4 id><a href="#" class="headerlink" title></a></h4><h4 id="let命令"><a href="#let命令" class="headerlink" title="let命令"></a>let命令</h4><p>变量提升</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>image-test</title>
+      <link href="/2022/06/22/image-test/"/>
+      <url>/2022/06/22/image-test/</url>
+      
+        <content type="html"><![CDATA[<h4 id="图片测试"><a href="#图片测试" class="headerlink" title="图片测试"></a>图片测试</h4><p><img src="/2022/06/22/image-test/IMG_20190728_110224-01.jpeg" alt="IMG_20190728_110224-01"></p><p><img src="/2022/06/22/image-test/IMG_20190728_104225-01.jpeg" alt="IMG_20190728_104225-01"></p><p><img src="/2022/06/22/image-test/IMG_20190728_111158-01.jpeg" alt="IMG_20190728_111158-01"></p><table><thead><tr><th align="center">表头</th><th align="center">表头</th><th align="center">表头</th></tr></thead><tbody><tr><td align="center">11</td><td align="center">12</td><td align="center">13</td></tr><tr><td align="center">14</td><td align="center">15</td><td align="center">16</td></tr><tr><td align="center">17</td><td align="center">18</td><td align="center">19</td></tr></tbody></table>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 旅游 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>blog-test</title>
+      <link href="/2022/06/22/blog-test/"/>
+      <url>/2022/06/22/blog-test/</url>
+      
+        <content type="html"><![CDATA[<h3 id="测试文章"><a href="#测试文章" class="headerlink" title="测试文章"></a>测试文章</h3><h4 id="我急了"><a href="#我急了" class="headerlink" title="我急了"></a>我急了</h4><p>我急了，手机电脑全砸了，本来就有抑郁症的我，被别人说我破防了，我真的恼羞成怒了，仿佛被看穿了，躲在网络背后的我，这种感觉真的好难受，我被看穿的死死的，短短的破防两个字，我伪装出来的所有的坚强和强颜欢笑全都崩塌了，成了一个被人笑话的,我真的不想再故作坚强了，玩心态我输得什么都不剩</p><h4 id="我笑了"><a href="#我笑了" class="headerlink" title="我笑了"></a>我笑了</h4><p>我笑了，手机电脑全修好了，本来有抑郁症的我真的笑逐颜开了仿佛被拥抱了，活在网络世界的我这种感觉真的好舒服，隐藏在心中的所有软弱和不安全都消失了，我真的不用再故作坚强了，玩心态我赢得什么都有了</p><p><img src="/2022/06/22/blog-test/2022-06-22-12-27-44.png"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2022/06/20/hello-world/"/>
+      <url>/2022/06/20/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a class="link" href="https://hexo.io/">Hexo<i class="fas fa-external-link-alt"></i></a>! This is your very first post. Check <a class="link" href="https://hexo.io/docs/">documentation<i class="fas fa-external-link-alt"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link" href="https://hexo.io/docs/troubleshooting.html">troubleshooting<i class="fas fa-external-link-alt"></i></a> or you can ask me on <a class="link" href="https://github.com/hexojs/hexo/issues">GitHub<i class="fas fa-external-link-alt"></i></a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a class="link" href="https://hexo.io/docs/writing.html">Writing<i class="fas fa-external-link-alt"></i></a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a class="link" href="https://hexo.io/docs/server.html">Server<i class="fas fa-external-link-alt"></i></a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a class="link" href="https://hexo.io/docs/generating.html">Generating<i class="fas fa-external-link-alt"></i></a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a class="link" href="https://hexo.io/docs/one-command-deployment.html">Deployment<i class="fas fa-external-link-alt"></i></a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
